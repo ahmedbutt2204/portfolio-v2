@@ -5,13 +5,12 @@
 /.pnp
 .pnp.js
 
-
+# git add . / git commit -m "message" / git push origin main
 ProjectCard.jsx
 ProjectCard.css
 Contact.jsx
 Education.jsx
 Home.jsx
-Projects.jsx
 # testing
 /coverage
 
